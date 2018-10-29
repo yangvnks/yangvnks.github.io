@@ -2,13 +2,9 @@ function loadJSON(callback) {
 
     var xobj = new XMLHttpRequest();
         xobj.overrideMimeType("application/json");
-    //Very ugly hack to get correct file
-    if(window.location.href.indexOf("posts") > -1){
-      xobj.open('GET', '../posts/test.json', true); 
-    }
-    else{
-       xobj.open('GET', '/posts/test.json', true);
-    }
+
+    xobj.open('GET', 'https://yangvnks.github.io/posts/postcontainer.json', true);
+    
     xobj.onreadystatechange = function () {
           if (xobj.readyState == 4 && xobj.status == "200") {
             callback(xobj.responseText);

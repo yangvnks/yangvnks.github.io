@@ -14,7 +14,8 @@
          "Link" : "#",
          "Img-Link":"https://yangvnks.github.io/posts/images/BIPSales1.png",
          "Date": "10-10-2018",
-         "Tags": [ "Python", "Machine Learning", "Forecast" , "Challenge" , "Sales" , "Data mining" , "Regression" ]        },
+         "Tags": [ "Python", "Machine Learning", "Forecast" , "Challenge" , "Sales" , "Data mining" , "Regression" ]
+        },
 
         {"Title":"House price prediction",
          "Description":"This competition challenges you to predict the final price of each home with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. Done in Python and Jupyter",
