@@ -1,0 +1,26 @@
+{
+ "posts":[
+    
+    	{"Title":"LyricsToCloud", 
+    	 "Description": "LyricsToCloud : A python script to generate word clouds from Top 100 End of the Year Billboard song lyrics",
+    	 "Link" : "#",
+    	 "Img-Link":"http://0.0.0.0:8000/posts/images/LyricsToCloud1.png",
+    	 "Date": "26-10-2018",
+    	 "Tags": [ "Python", "Word Cloud", "Lyrics" , "Songs" , "Music" ]
+    	}, 
+
+    	{"Title":"BIP xTech Sales Forecast",
+    	 "Description":"Advadanced prediction techniques used to forecast the sales of 749 shops. The project is a team effort for the course Data and Text Mining at Politecnico di Milano, A.Y. 2017/2018",
+    	 "Link" : "#",
+    	 "Img-Link":"http://0.0.0.0:8000/posts/images/BIPSales1.png",
+    	 "Date": "10-10-2018",
+    	 "Tags": [ "Python", "Machine Learning", "Forecast" , "Challenge" , "Sales" , "Data mining" , "Regression" ]    	},
+
+    	{"Title":"House price prediction",
+    	 "Description":"This competition challenges you to predict the final price of each home with 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa. Done in Python and Jupyter",
+    	 "Link" : "posts/post_1.html",
+    	 "Img-Link":"http://0.0.0.0:8000/posts/images/HousePrices1.png",
+    	 "Date": "08-09-2018",
+    	 "Tags": [ "Python", "Machine Learning", "House Price" , "Challenge" , "Sales" , "Data mining" , "Regression" , "Kaggle" ]    	
+    	}
+]}
